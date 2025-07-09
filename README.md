@@ -1,10 +1,10 @@
-# 📝 Django Todo App with User Login and Admin Dashboard
+#  Django Todo App with User Login and Admin Dashboard
 
-## 📘 Description
+##  Description
 
 A simple Django Todo application that allows users to register, log in, and manage their own tasks. Admin users can view all registered users and their tasks.
 
-## 🛠️ Features
+##  Features
 
 - User registration and login
 - Role-based dashboard:
@@ -13,7 +13,7 @@ A simple Django Todo application that allows users to register, log in, and mana
 - Add, delete, and mark tasks as complete/incomplete
 - Basic Bootstrap styling for UI
 
-## 📄 Pages
+##  Pages
 
 - Login Page  
 - Register Page  
